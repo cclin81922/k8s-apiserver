@@ -1,0 +1,5 @@
+apiVersion: cclin.cclin/v1
+kind: Lin
+metadata:
+  name: lin-example
+spec:
